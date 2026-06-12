@@ -97,4 +97,6 @@ pip install pandas numpy scikit-learn matplotlib
 
 ## 👤 Author
 
-- Morteza Pajoom
+Morteza Pazhoum — @MortezaPZ
+
+K.N. Toosi University of Technology — Computer Science
