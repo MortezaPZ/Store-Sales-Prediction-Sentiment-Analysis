@@ -1,1 +1,6 @@
-merged_file.csv
+# Dataset and notebook outputs are local inputs, not source files.
+/data/
+/.ipynb_checkpoints/
+/*.csv
+/prepro
+/w2v

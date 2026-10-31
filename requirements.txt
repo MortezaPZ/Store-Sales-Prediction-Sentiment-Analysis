@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+regex
+nltk
+gensim
+sentence-transformers
